@@ -1,8 +1,6 @@
 <h1 align="center">Hey, I'm Martin</h1>
 <h3 align="center">A guy who does things for fun :)</h3>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=mchaov" alt="mchaov" /></a> </p>
-
 - 🔭 I’m currently working on [amazing things at Draftkings!](https://www.draftkings.com/)
 
 - 👨‍💻 All the talks I do are located here: [https://github.com/mchaov/public-speaking](https://github.com/mchaov/public-speaking)
