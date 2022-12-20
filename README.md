@@ -5,7 +5,7 @@
 
 - 👨‍💻 All the talks I do are located here: [https://github.com/mchaov/public-speaking](https://github.com/mchaov/public-speaking)
 
-- 📝 I sometimes write articles on [https://mchaov.net/](https://mchaov.net/)
+- 📝 I sometimes write articles on [https://mchaov.net/](https://mchaov.net/) and [https://medium.com/draftkings-engineering](https://medium.com/draftkings-engineering)
 
 - 💬 Ask me about **Software architecture, CI/CD, Code quality**
 
