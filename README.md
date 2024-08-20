@@ -1,5 +1,4 @@
 <h1 align="center">Hey, I'm Martin</h1>
-<h3 align="center">A guy who does things for fun :)</h3>
 
 - 🔭 I’m currently working on [amazing things at Draftkings!](https://www.draftkings.com/)
 
